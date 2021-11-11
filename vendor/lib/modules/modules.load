@@ -1,0 +1,6 @@
+wil6210.ko
+msm_11ad_proxy.ko
+rdbg.ko
+qca_cld3_wlan.ko
+mpq-adapter.ko
+mpq-dmx-hw-plugin.ko
